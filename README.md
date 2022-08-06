@@ -6,10 +6,11 @@
 	<br>
 	<br>
 	<img src="./docs/logo.png" height="80">
+  <br>
+This project is my personal website, where I want to display my projects, write my own diary and implement any features that sound useful to me. 
+On top of that I want to learn a lot about coding with this project. 
+This project is by no means perfectly planned out, my goal is to share everything I do in this project (even if it's embarrassing). I will always try my best, but I'm not afraid of failure or being an idiot sometimes `:)`. 
 </div>
-This project is my personal website, where I want to display my projects, write my own diary and implement any features that sound useful to me. On top of that I want to learn a lot about coding with this project.
-
-This project is by no means perfectly planned out, my goal is to share everything I do in this project (even if it's embarrassing). I will always try my best, but I'm not afraid of failure or being an idiot sometimes `:)` .
 
 ## Features
 
