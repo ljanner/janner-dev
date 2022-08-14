@@ -1,7 +1,17 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import PageFooter from './components/PageFooter.vue';
+</script>
 
 <template>
-  <router-view />
+  <n-config-provider>
+    <n-global-style />
+    <n-loading-bar-provider>
+      <n-notification-provider>
+        <router-view />
+        <page-footer />
+      </n-notification-provider>
+    </n-loading-bar-provider>
+  </n-config-provider>
 </template>
 
 <style>
